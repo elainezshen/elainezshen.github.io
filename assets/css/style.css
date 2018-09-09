@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500,700,800);
-@import url(http://fonts.googleapis.com/css?family=open+sans);
-@import url(http://fonts.googleapis.com/css?family=montserrat);
-@import url(http://fonts.googleapis.com/css?family=quicksand:400,300,500,700,800);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Quicksand:400,300,500,700,800);
 
 
 
@@ -13,7 +13,7 @@
 */
 
 body {
-	font: 300 16px/1.8 'quicksand', futura, sans-serif;
+	font: 300 16px/1.8 'Quicksand', sans-serif;
 	color: #666;
 	overflow-x: hidden;
 	font-weight:400;
@@ -74,7 +74,7 @@ a,
 /* ---------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-	font: 700 40px/1.2 raleway, sans-serif;
+	font: 700 40px/1.2 Raleway, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	margin: 5px 0 5px;
@@ -180,7 +180,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .btn {
-	font-family: raleway, sans-serif;
+	font-family: Raleway, sans-serif;
 	text-transform: uppercase; 
 	letter-spacing: 2px;
 	font-size: 25px;
@@ -287,7 +287,7 @@ textarea.form-control {
 }
 
 .pfblock-subtitle {
-	font-family: quicksand, futura, sans-serif;
+	font-family: Quicksand, sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
@@ -398,7 +398,7 @@ textarea.form-control {
 }
 
 .start {
-	font-family: Raleway, futura, sans-serif;
+	font-family: Raleway, sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	text-transform: none;
@@ -1002,7 +1002,7 @@ section.under a {
   font-size: 1.2em;
   letter-spacing: 0.07em; }
   a .text {
-    font-family: raleway;
+    font-family: Raleway;
     -webkit-transform: translate3d(0, 0.7em, 0);
     transform: translate3d(0, 0.7em, 0);
     display: block;
