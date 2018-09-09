@@ -13,7 +13,7 @@
 */
 
 body {
-	font: 300 16px/1.8 'quicksand', open sans, sans-serif;
+	font: 300 16px/1.8 'quicksand', futura, sans-serif;
 	color: #666;
 	overflow-x: hidden;
 	font-weight:400;
@@ -287,7 +287,7 @@ textarea.form-control {
 }
 
 .pfblock-subtitle {
-	font-family: quicksand, open sans, sans-serif;
+	font-family: quicksand, futura, sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
@@ -398,7 +398,7 @@ textarea.form-control {
 }
 
 .start {
-	font-family: Raleway, "Times New Roman", Times, sans-serif;
+	font-family: Raleway, futura, sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	text-transform: none;
